@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sample1", "Sample1\Sample1.csproj", "{A6D1B040-FCC2-4217-A939-CB0E8FC23148}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sample2", "Sample2\Sample2.csproj", "{91C5A0FC-ED14-4F27-ABC7-C9278D0A3C0C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sample3", "Sample3\Sample3.csproj", "{8DEADF56-A653-4DC7-939D-EA4C43B81883}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6D1B040-FCC2-4217-A939-CB0E8FC23148}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6D1B040-FCC2-4217-A939-CB0E8FC23148}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6D1B040-FCC2-4217-A939-CB0E8FC23148}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6D1B040-FCC2-4217-A939-CB0E8FC23148}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91C5A0FC-ED14-4F27-ABC7-C9278D0A3C0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91C5A0FC-ED14-4F27-ABC7-C9278D0A3C0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91C5A0FC-ED14-4F27-ABC7-C9278D0A3C0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91C5A0FC-ED14-4F27-ABC7-C9278D0A3C0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DEADF56-A653-4DC7-939D-EA4C43B81883}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DEADF56-A653-4DC7-939D-EA4C43B81883}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DEADF56-A653-4DC7-939D-EA4C43B81883}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DEADF56-A653-4DC7-939D-EA4C43B81883}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {31C23500-78F8-470C-84E8-232B6A7E1F30}
+	EndGlobalSection
+EndGlobal

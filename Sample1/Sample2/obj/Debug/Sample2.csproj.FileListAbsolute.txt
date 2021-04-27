@@ -1,0 +1,2 @@
+C:\Users\DELL\Desktop\Capgemini\Capgemini Traning\Module 3\My Practice\Day4\Sample1\Sample2\obj\Debug\Sample2.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\Capgemini\Capgemini Traning\Module 3\My Practice\Day4\Sample1\Sample2\obj\Debug\Sample2.csproj.CoreCompileInputs.cache

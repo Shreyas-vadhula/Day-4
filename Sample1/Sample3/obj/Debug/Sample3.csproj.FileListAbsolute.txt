@@ -1,0 +1,5 @@
+C:\Users\DELL\Desktop\Capgemini\Capgemini Traning\Module 3\My Practice\Day4\Sample1\Sample3\bin\Debug\Sample3.dll
+C:\Users\DELL\Desktop\Capgemini\Capgemini Traning\Module 3\My Practice\Day4\Sample1\Sample3\bin\Debug\Sample3.pdb
+C:\Users\DELL\Desktop\Capgemini\Capgemini Traning\Module 3\My Practice\Day4\Sample1\Sample3\obj\Debug\Sample3.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Capgemini\Capgemini Traning\Module 3\My Practice\Day4\Sample1\Sample3\obj\Debug\Sample3.dll
+C:\Users\DELL\Desktop\Capgemini\Capgemini Traning\Module 3\My Practice\Day4\Sample1\Sample3\obj\Debug\Sample3.pdb
